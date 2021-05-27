@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Best travel destinations
+  * South Island, New Zealand
+  * Paris
+  * Tahiti
+  * Rome
